@@ -1,9 +1,9 @@
 ---
-layout: BlogPost.astro
+layout: "../../layouts/BlogPost.astro"
 title: Lorem ipsum dolor sit amet
 description: blah blah blah
 pubDate: Jul 08 2022
-heroImage: "/public/uploads/bg-index-arch-3.jpg"
+heroImage: "../../uploads/bg-index-arch-3.jpg"
 updatedDate: Jul 15 2022
 
 ---
