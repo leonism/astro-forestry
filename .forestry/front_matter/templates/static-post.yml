@@ -19,3 +19,4 @@ fields:
   label: heroImage
 pages:
 - src/pages/blog/lorem-ipsum-dolor-sit-amet.md
+- src/pages/blog/lorem-ipsum-dolor-sit-amet.md
