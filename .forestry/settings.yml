@@ -9,9 +9,7 @@ sections:
   label: Content
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
-- type: heading
-  label: Content
+  new_doc_ext: md
 - type: document
   path: uploads
   label: Documents
