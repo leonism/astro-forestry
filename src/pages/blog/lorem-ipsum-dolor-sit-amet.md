@@ -1,5 +1,5 @@
 ---
-layout: "../layouts/BlogPost.astro"
+layout: BlogPost.astro
 title: Lorem ipsum dolor sit amet
 description: blah blah blah
 pubDate: Jul 08 2022
