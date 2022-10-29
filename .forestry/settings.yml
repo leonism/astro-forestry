@@ -11,7 +11,7 @@ sections:
   label: Posts
   create: none
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 - type: document
   path: uploads
   label: Documents
