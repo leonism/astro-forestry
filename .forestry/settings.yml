@@ -9,7 +9,6 @@ sections:
 - type: document
   path: uploads
   label: Documents
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
