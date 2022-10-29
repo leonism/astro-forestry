@@ -17,5 +17,3 @@ fields:
 - type: file
   name: heroImage
   label: heroImage
-pages:
-- src/pages/blog/lorem-ipsum-dolor-sit-amet.md
