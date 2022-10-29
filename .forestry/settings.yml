@@ -16,7 +16,7 @@ sections:
   path: uploads
   label: Documents
 upload_dir: uploads
-public_path: "/uploads"
+public_path: "/public/uploads"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
