@@ -7,6 +7,11 @@ sections:
 - type: heading
   label: Posts
 - type: directory
+  path: src/data
+  label: Users
+  create: all
+  match: "**/*"
+- type: directory
   path: src/pages
   label: 'Static '
   create: documents
